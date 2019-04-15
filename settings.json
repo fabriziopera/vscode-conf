@@ -1,0 +1,39 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {},
+    "materialTheme.cache.workbench.settings": {
+        "accent": "Graphite",
+        "themeColours": "Darker"
+    },
+    "explorer.openEditors.visible": 0,
+    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "editor.wordWrap": "on",
+    "editor.lineHeight": 22,
+    "files.autoSave": "onFocusChange",
+    "composer.executablePath": "/usr/local/bin/composer",
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.lineHeight": 1.2,
+    "git.enableSmartCommit": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": true
+    },
+    "editor.quickSuggestionsDelay": 1,
+    "php.suggest.basic": false,
+    "explorer.confirmDelete": false,
+    "emmet.includeLanguages": {
+        "blade": "html"
+    },
+    "emmet.triggerExpansionOnTab": true, // enable tab to expanse emmet tags
+    "blade.format.enable": true,
+    "window.openFilesInNewWindow": "on",
+    "csharp.suppressDotnetInstallWarning": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "csv-preview.numberFormat": "g5",
+    "window.zoomLevel": 0, // if you would like to enable blade format
+}
